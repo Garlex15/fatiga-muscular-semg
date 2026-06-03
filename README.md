@@ -14,7 +14,7 @@ Dashboard interactivo para análisis de fatiga muscular usando señales electrom
 ```bash
 git clone https://github.com/ACgar/fatiga-muscular-semg.git
 cd fatiga-muscular-semg
-´´´
+```
 2. Crear entorno virtual (opcional pero recomendado):
 
 conda create -n fatiga python=3.10
@@ -27,7 +27,6 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-Aquí tienes el README completo y bien formateado. Solo **copia y pega** todo esto en tu archivo `README.md`:
 
 ```markdown
 # Análisis de Fatiga Muscular con sEMG
