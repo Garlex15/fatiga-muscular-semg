@@ -18,16 +18,18 @@ git clone https://github.com/ACgar/fatiga-muscular-semg.git
 cd fatiga-muscular-semg
 
 2. Crear entorno virtual (opcional pero recomendado):
+
 conda create -n fatiga python=3.10
 conda activate fatiga
 
-3. Instalar dependencias:
+4. Instalar dependencias:
+
 pip install -r requirements.txt
 
-4. Ejecutar la aplicación:
+5. Ejecutar la aplicación:
 streamlit run app.py
 
-La aplicación se abrirá automáticamente en tu navegador en http://localhost:8501
+La aplicación se abrirá automáticamente en tu navegador en http://localhost:XXXX
 
 ## 📊 Cómo usar la aplicación
 
